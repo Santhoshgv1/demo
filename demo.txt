@@ -5,3 +5,7 @@ students
 ganesh
 rohith
 ram
+
+
+techers
+
