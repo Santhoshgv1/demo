@@ -2,7 +2,6 @@ This is Git Example List
 
 students 
 
-rahul
 ganesh
 rohith
 ram
